@@ -1,5 +1,5 @@
 AI Chatbot
-This chatbot is designed to integrate multiple AI models seamlessly. Just add your API keys, and the chatbot will automatically connect and start working. No extra setup is needed!
+This chatbot is designed to integrate multiple AI models seamlessly. Just add your API keys and the chatbot will automatically connect and start working. No extra setup is needed!
 
 How It Works:
 Add Your API Key – Simply enter the API key of the AI model you want to use.
